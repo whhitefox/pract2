@@ -1,0 +1,15 @@
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).csproj.AssemblyReference.cache
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).AssemblyInfoInputs.cache
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).AssemblyInfo.cs
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).csproj.CoreCompileInputs.cache
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\bin\Debug\net6.0\Клавидия Мещернова(п2).exe
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\bin\Debug\net6.0\Клавидия Мещернова(п2).deps.json
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\bin\Debug\net6.0\Клавидия Мещернова(п2).runtimeconfig.json
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\bin\Debug\net6.0\Клавидия Мещернова(п2).dll
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\bin\Debug\net6.0\Клавидия Мещернова(п2).pdb
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).dll
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\refint\Клавидия Мещернова(п2).dll
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).pdb
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\Клавидия Мещернова(п2).genruntimeconfig.cache
+D:\C# Projects\Клавидия Мещернова(п2)\Клавидия Мещернова(п2)\obj\Debug\net6.0\ref\Клавидия Мещернова(п2).dll
